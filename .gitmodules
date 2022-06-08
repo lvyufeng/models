@@ -1,0 +1,3 @@
+[submodule "multimodal/image_captioning"]
+	path = multimodal/image_captioning
+	url = https://github.com/lvyufeng/image_captioning_mindspore
