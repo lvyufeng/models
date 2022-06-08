@@ -1,3 +1,24 @@
 [submodule "multimodal/image_captioning"]
 	path = multimodal/image_captioning
 	url = https://github.com/lvyufeng/image_captioning_mindspore
+[submodule "nlp/pointer_summarizer"]
+	path = nlp/pointer_summarizer
+	url = https://github.com/lvyufeng/pointer_summarizer_mindspore
+[submodule "cv/gumbel_softmax"]
+	path = cv/gumbel_softmax
+	url = https://github.com/lvyufeng/gumbel_softmax_mindspore
+[submodule "nlp/duconv"]
+	path = nlp/duconv
+	url = https://github.com/lvyufeng/DuConv_mindspore
+[submodule "nlp/ernie"]
+	path = nlp/ernie
+	url = https://github.com/lvyufeng/ERNIE_mindspore
+[submodule "nlp/seq2seq_gru"]
+	path = nlp/seq2seq_gru
+	url = https://github.com/lvyufeng/gru_mindspore
+[submodule "nlp/elmo"]
+	path = nlp/elmo
+	url = https://github.com/lvyufeng/elmo_mindspore
+[submodule "nlp/emotect"]
+	path = nlp/emotect
+	url = https://github.com/lvyufeng/emotect_mindspore
